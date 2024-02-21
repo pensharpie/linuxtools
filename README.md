@@ -16,7 +16,7 @@ unzip Chapter_03.zip
 cd 1
 execute Steps.sh
 
-kernel and rootfs steps-
+kernel and rootfs step
 setup boot partition
 copy kernel
 copy root directory
@@ -24,4 +24,13 @@ once boot is complete use busybox to provided the shell and shell commands
 
 ###
 
+build root steps
+
+cd buildroot
+make clean
+make raspberrypi4_64_defconfig
+make
+
 ###
+
+
