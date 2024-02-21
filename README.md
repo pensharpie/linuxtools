@@ -8,3 +8,12 @@ cd 1a
 update Makefile for the target platform, rpi4 in my case.  See next line for update.
 ./configure-Crosstoll-ng_rpi.sh rpi4 | tee crosstoll.out
 make
+
+###
+
+2/20/2024 manual steps to a kernel and rootfs
+unzip Chapter_03.zip
+cd 1
+execute Steps.sh
+
+###
