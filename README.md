@@ -11,9 +11,16 @@ make
 
 ###
 
-2/20/2024 manual steps to a kernel and rootfs
+2/20/2024 manual steps to configure a kernel and rootfs
 unzip Chapter_03.zip
 cd 1
 execute Steps.sh
+
+### kernel and rootfs steps ###
+
+setup boot partition
+copy kernel
+copy root directory
+once boot is complete use busybox to provided the shell and shell commands
 
 ###
