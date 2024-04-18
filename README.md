@@ -1,8 +1,3 @@
-1 toolchain linux scripts
+1 4/17/2024 toolchain linux scripts
 
-2 kernal fw and rootfs scripts
-
-3 buildroot and yocto scripts
-
-4 cross compiler scripts
-
+3 4/17/2024 buildroot and yocto scripts
